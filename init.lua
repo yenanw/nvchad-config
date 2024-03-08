@@ -7,3 +7,4 @@
 -- })
 -- will add more to this if i ever bother to learn vim configs
 vim.opt.clipboard = "unnamed,unnamedplus"
+vim.opt.colorcolumn = "80,120"
